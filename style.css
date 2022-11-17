@@ -1,0 +1,21 @@
+.container{
+  margin: 10rem;
+}
+.content>input {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+}
+.submit{
+  background-color: rgb(41, 61, 149);
+  border: none;
+  color: #ffffff;
+  padding: 0.8rem;
+}
+.submit-hover:hover{
+  background-color: rgb(67, 89, 189);
+  float: right;
+}
